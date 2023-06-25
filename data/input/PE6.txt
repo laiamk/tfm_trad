@@ -1,0 +1,83 @@
+<p>
+﻿Plateia D'Ilusões Studio de Portugal encuentra el con la nueva ORIGIN de SSL
+<p>
+“ORIGIN realmente me pone en el sweet spot.
+Eso es algo que realmente disfruto: el flujo de trabajo”
+<p>
+Cuando Vasco Teodoro trasladó su estudio de grabación Plateia D'Ilusões a su ubicación actual a mediados de 2019, estaba usando una configuración de producción híbrida que incluía un controlador DAW/superficie de trabajo SSL Nucleus y un mixer sumador analógico con control remoto SSL Sigma δelta.
+<p>
+Ahora, Teodoro, un fanático de los equipos de Solid State Logic desde hace mucho tiempo, ha actualizado su sala de control para incluir algunos de los productos más recientes de la compañía, instalando una mesa de mezclas analógica ORIGIN de 32 canales, un controlador DAW avanzado UF8 y un procesador maestro analógico Fusion.
+<p>
+“Me gustaba mi Nucleus de primera generación, pero estaba buscando una mesa de mezclas para mi estudio”, dice Teodoro, productor, ingeniero y mixer cuyas instalaciones están ubicadas en Almada, al otro lado del río desde el centro de Lisboa, la capital de Portugal.
+“Cuando vi aparecer ORIGIN, pensé, ¡es esto!”
+<p>
+Ventana única para un sonido increíble
+<p>
+Desde que instaló ORIGIN, se ha dado cuenta de que usa mucho menos plugins y equipos externos.
+“El ecualizador de ORIGIN es asombroso y los graves son increíbles, redondeados pero definidos.
+Hago un high pass en ORIGIN, a veces algo de ecualización, a veces no y suena genial, así que he estado usando cada vez menos otras cosas.
+Ahora estoy terminando una mezcla y cuando miro la ventana de Pro Tools, muchos canales no tienen ningún plugin.
+Así que el ORIGIN realmente me pone en el sweet spot para trabajar.
+Eso es algo que realmente disfruto: el flujo de trabajo”, dice.
+<p>
+“Algunos de mis clientes estaban aquí preguntando si podía escuchar la diferencia entre la mesa y los plugins”, continúa.
+“Le dije: ‘Déjame abrir algunos canales y subir 15dB a 16 kHz'.
+En el plug-in, sonará duro.
+No estoy diciendo que no puedas obtener grandes resultados con plugins.
+Pero puedes sobrecargar una consola y eso no tiene precio, para mí.
+Les mostré un ejemplo, con la batería.
+Podían oír la diferencia.
+Para obtener el mismo resultado con Pro Tools, tendría que usar cuatro o cinco plugins”.
+<p>
+Con su configuración anterior, Teodoro a menudo usaba los preamplificadores de micrófono en una mesa cuando grababa.
+“Desde que tengo ORIGIN, no la he usado.
+No esperaba eso.
+Estos preamplificadores de micrófono PureDrive me han sorprendido mucho, especialmente el botón Drive que agrega armónicos”, dice.
+Hay varias otras opciones de preamplificador de micrófono en los rack de Plateia D'Ilusões, dice, incluidas algunas unidades antiguas.
+“Pero he grabado algunas cosas donde no las usé.
+ORIGIN suena bien, entonces, ¿por qué estropearlo?”
+<p>
+Si lo instalas vendrán
+<p>
+Cuando Teodoro estaba calculando su presupuesto para el nuevo equipo, dice: “Una de las cosas que dije fue que solo tengo que tener dos sesiones más al mes para pagar la mesa y funcionó de maravilla.
+Durante los tiempos del COVID trabajé y trabajé”.
+Enero está completo, dice, incluidas tres semanas trabajando con bandas.
+<p>
+“Ayuda tener la mesa ORIGIN, la gente nota mi trabajo por eso.
+Es una gran herramienta para un estudio comercial como el mío, porque todo el mundo conoce el nombre SSL.
+He tenido algunos músicos e ingenieros aquí que han trabajado con mesas SSL antes y les encanta”, dice.
+“Piensan que es una herramienta increíble”.
+<p>
+Si bien los clientes de Teodoro trabajan en una variedad de géneros musicales, muchos de ellos prefieren grabar juntos como un conjunto, informa, que es donde ORIGIN realmente muestra su valor.
+“Tengo la suerte de trabajar con algunos de los mejores músicos de Portugal y les gusta la configuración que tengo aquí.
+Realizan una grabación en vivo, lo cual es genial, porque tengo 32 canales en ORIGIN.
+La mesa me permite obtener sonidos más fácilmente y mucho más rápido, porque puedo saturar los preamplificadores de los canales o usar algo de ecualización para darle más fuerza a la caja, por ejemplo.
+Y si el pianista también toca la guitarra, puedo configurar ambos y no necesito seguir cambiando las cosas”, lo cual tuvo que hacer con su configuración de grabación limitada anterior.
+<p>
+ORIGIN incorpora un compresor estéreo de la serie G en la sección maestra, pero Teodoro ya estaba familiarizado con el dispositivo, ya que usó la versión de la serie 500 de SSL en su antiguo equipo híbrido.
+“Ahora uso ese para machacar baterías”, dice.
+“¡Tengo la suerte de tener dos compresores SSL G!”
+<p>
+Los tres espacios de grabación en Plateia D'Ilusões no solo le permiten a Teodoro separar a los músicos mientras graban, sino que también le han permitido continuar trabajando durante la pandemia del coronavirus con todos aislados de manera segura.
+Además, agrega: “Este lugar es genial porque está cerca de mi casa.
+Y tengo luz natural, así que puedo mirar afuera”.
+<p>
+Montando faders con ORIGIN y UF8
+<p>
+Si bien Teodoro confía cada vez más en las características y la funcionalidad de ORIGIN para grabar y mezclar, todavía hay algo así como un flujo de trabajo híbrido en el estudio.
+Su controlador SSL UF8, montado en un soporte a su izquierda, proporciona un control táctil de la automatización de su DAW.
+“Algunas cosas las automatizó en Pro Tools, las cosas principales las automatizó en el UF8; a lo sumo automatizo dos canales a la vez”, dice.
+“Y en ORIGIN, puedo poner todo en los faders y montarlos.
+Me encanta tener todos estos faders”.
+<p>
+Teodoro aún no ha tenido la oportunidad de profundizar en su nuevo equipo SSL, ya que solo ha mezclado un programa de televisión y unas 10 canciones desde que lo instaló.
+“Así que no he explorado mucho el procesador Fusion”, dice.
+“Pero me gusta el color y el carácter que da.
+Encuentro el Drive interesante para la saturación.
+Me gusta mucho la anchura que tiene.
+Y realzo un poco 20kHz.
+Y eso es.”
+<p>
+El procesador Fusion, que normalmente inserta en el bus maestro, sin duda ofrece posibilidades para proyectos en los que un cliente tiene un presupuesto muy limitado, dice.
+Para esos proyectos, “sé que no siempre puedo estar mezclando en la mesa de ORIGIN.
+Entonces, a veces, si es para un pequeño personaje en algo y es un presupuesto realmente ajustado y un tiempo ajustado, puedo usar la mesa para resumir con Fusion”, dice.

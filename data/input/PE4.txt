@@ -1,0 +1,41 @@
+<p>
+﻿4.
+Verizon Hall en el Kimmel Center de Filadelfia se vuelve DiGiCo hasta el final
+<p>
+La Orquesta de Filadelfia tardó un tiempo en tener un hogar propio.
+De hecho, pasaron casi 100 años, ya que los planes que se iniciaron por primera vez en 1908 se vieron interrumpidos por retrasos burocráticos, una Gran Depresión, un par de guerras mundiales y otros baches.
+<p>
+Pero una vez que se inauguró en diciembre de 2001, el Centro Kimmel para las Artes Escénicas fue una maravilla para la vista: un techo abovedado de vidrio encierra toda la estructura, brindando un gran vestíbulo común para todas las instalaciones, incluida la pieza central del lugar, los 2500 asiento Verizon Hall.
+<p>
+Ahí es también donde el largo viaje del Kimmel Center hasta su finalización recibió la guinda el verano pasado: un nuevo y completo ecosistema de audio digital DiGiCo para Verizon Hall que comprende una consola Quantum338, dos SD-Racks y un procesador 4REA4 con múltiples controladores.
+Estos fueron vendidos por Bauder Audio, con sede en Horsham, Pensilvania, que también consultó con el equipo técnico de Kimmel Cultural Campus durante su propia instalación interna del equipo.
+<p>
+André Barette, director de producción del campus cultural de Kimmel, dice que el proceso de decisión detrás de la elección de los componentes de DiGiCo fue largo.
+<p>
+“Tenemos muchas opciones en lo que respecta a los sistemas de audio de calidad en el mercado ahora, pero sentimos que la consola DiGiCo Quantum era la que mejor se adaptaba a las necesidades de los diversos clientes del Centro, incluidos los compromisos de Kimmel Center Presents y diferentes producciones en gira.
+”, explica, señalando que el Centro también alberga la Orquesta Juvenil de Filadelfia, la Orquesta de Cámara de Filadelfia, la Sociedad de Música de Cámara de Filadelfia y la serie de actuaciones “Kimmel Center Presents”, presenta una variedad de jazz, música clásica y intérpretes de música pop.
+<p>
+Mientras que la consola Quantum338 y los SD-Racks abordan las necesidades inmediatas de producción de audio del Centro, el procesador 4REA4 es una adquisición aún más estratégica, dice.
+Actualmente se utiliza como procesador de respaldo para el sistema de sonido Verizon Hall, enrutando megafonía y programa de audio a varias zonas en las áreas traseras del lugar.
+<p>
+Pero, en el futuro, espera que sus capacidades se amplíen a otros espacios de actuación del Centro, incluido el Teatro Perelman de 650 asientos y su escenario giratorio de 75 pies de diámetro que permite que el espacio se use como sala de recitales o proscenio.
+teatro y el SEI Innovation Studio, un teatro de caja negra de 2,688 pies cuadrados.
+“El 4REA4 es un procesador muy potente y versátil, y prevemos que se convertirá en una parte importante de nuestra infraestructura de audio digital en el futuro”, nos dice.
+<p>
+Aunque la consola, los bastidores y el procesador son los elementos destacados en esta actualización de audio, hay otros elementos que realizan tareas igualmente importantes.
+Un par de cajas de escenario DiGiCo A168, una en el escenario del Verizon Hall y la otra en la sala de equipos del lugar, se conectan con el procesador 4REA4, extendiendo su alcance desde la sala principal a otras áreas de las instalaciones, como el vestíbulo, y reemplazando una serie de mezcladores y procesadores de montaje en rack más antiguos.
+<p>
+Esta combinación de 4REA4 y cajas de escenario se controla mediante los controladores remotos programables multicapa AControl6 y AControl8 de DiGiCo.
+Los ocho faders y las seis capas de AControl8 se utilizan para gestionar el audio cuando la orquesta utiliza la sala sola, sin sonido amplificado.
+La consola se retira, lo que permite que ocho asientos más estén disponibles para la venta, y el control de los elementos de audio básicos, como los anuncios de megafonía y los efectos de campana que alertan a los clientes de que un espectáculo está a punto de comenzar, se maneja de manera eficiente mediante este controlador similar a una tableta.
+Mientras tanto, el AControl6 más pequeño actúa como un submezclador compacto en la sala de equipos.
+<p>
+“La consola Quantum338 resolvió su problema de conteo de canales de entrada”, dice Brian Naab, gerente de producción de Bauder Audio Systems.
+“Antes, tenían que recurrir a los mezcladores de sidecar a medida que aumentaba el número de canales para los espectáculos pop con orquestas.
+Ahora, con los SD-Racks, tienen 112 canales para trabajar y tienen mucha consola en un espacio reducido.
+Es un escritorio increíble.
+Pero la combinación del procesador 4REA4, las cajas de escenario y los dispositivos AControl realmente les brinda mucha flexibilidad en términos de configuración de la sala y para la futura extensión del audio en todo el recinto.
+Eventualmente, el 4REA4 distribuirá y controlará el audio en todas partes, por lo que el crecimiento futuro está integrado en el sistema”.
+<p>
+Por ejemplo, Nash dice que puede distribuir audio desde un solo canal a múltiples ubicaciones, utilizando la flexibilidad de enrutamiento inherente de Quantum que ahora también se ve mejorada por la inclusión de una red Optocore que conecta la consola, los dos SD-Racks detrás del escenario y el 4REA4.
+procesador por fibra.

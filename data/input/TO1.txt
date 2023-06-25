@@ -1,0 +1,72 @@
+<p>
+Nuendo 12 Is the Home of Dialogue
+<p>
+Steinberg releases the latest version of Nuendo, its award-winning audio post-production software for film, TV, game audio and immersive sound.
+With a strong emphasis on dialogue recording and editing, plus many other exciting new features and enhancements, Nuendo 12 literally gives recorded sound a new voice.
+<p>
+First revealed in March, Steinberg today announces the immediate availability of its latest, much-anticipated media production system, Nuendo 12, featuring an array of tools and powerful processes that meet every professional demand.
+<p>
+The twelfth version of Nuendo has a clear focus on speech, it being the most essential element of voice overs, dubbing and dialogue for games, movies, and television.
+Many of Nuendo's new features and improvements not only ensure that dialogue is clearly heard but are especially designed for sound designers and post-production studios working in this domain.
+<p>
+With its new features for dialogue recording and editing, as well as producing headphone-based binaural mixes and more, Nuendo 12 is the Home of Dialogue.
+<p>
+Dialogue meets the gold standard
+<p>
+Nuendo 12 introduces dedicated tools for dialogue editing.
+The AI-powered Dialogue Detection algorithm detects speech and removes silent parts from the recording, with the new audition tool enabling users to listen to the displayed waveform detected as dialogue or silence, prior to editing.
+<p>
+With the enhanced Audio Alignment capability, multiple reference clips can be used, and their precise timing applied to the corresponding set of field recorder files.
+The Free Warp tool allows subtle time correction of dialogue clips from within the Project window.
+Nuendo 12 now also integrates seamlessly with Auto-Align Post 2, aligning time and phase of moving microphones.
+<p>
+ADR overhaul
+<p>
+Nuendo's ADR system has received an overhaul, with new and improved functionality, such as allowing users to create ADR markers automatically by selecting one or more audio events.
+The ADR API connects external taker systems and dialogue script editors with Nuendo's own marker system.
+Also now included in version 12 is Netflix TTAL import and export support, for working on language dubbing projects for Netflix, as well as EdiCue v4 support for loading character text from PDF shooting scripts, with the cue data stored directly in Nuendo's cycle markers.
+And with the included marker window attribute filters, marker attributes displayed directly on the marker track and new key commands, the ADR system in Nuendo 12 is now easier to use than ever before.
+<p>
+Immersive headphone mixing
+<p>
+Nuendo 12 provides a top selection of binaural mixing tools.
+The new Headphones Match plug-in compensates and/or emulates the frequency response curve of 387 different models of headphones from a wide range of manufacturers.
+The Nuendo Renderer for Dolby Atmos now offers a binaural downmix for immersive sound mixing over headphones with the required spatial accuracy, while its new Setup Assistant automatically converts a channel- based project to a Dolby Atmos mixing project.
+The processing algorithm used in VST AmbiDecoder for converting from Ambisonics to stereo binaural has also been significantly improved, so that it is now possible to build a monitoring chain from channel-based immersive sound to Ambisonics to stereo binaural.
+<p>
+Nuendo 12 also supports Space Controller OSC by Sound Particles.
+Space Controller OSC connects a mobile device to Nuendo and links the physical movements of the device to the software, enabling full control over its panning tools.
+<p>
+More creative tools
+<p>
+For musicians and sound designers, Nuendo 12 includes the FX Modulator plug-in with many effects and a comprehensive envelope editor, the Raiser dynamics processing tool and the Lin One dithering plug-in by MAAT, Inc.
+Users can now create chord progressions from audio events, while the ability to import tempo and signature tracks allows for seamless exchange between different projects.
+The new MIDI Remote system allows third-party MIDI controllers to integrate easily into the Nuendo environment.
+Also part of this feature set is Verve, Steinberg's new felt piano recorded at the Yamaha Studios in Los Angeles.
+<p>
+Nuendo 12 provides many additional workflow and productivity enhancements, including:
+<p>
+SpectraLayers One improvements
+<p>
+Logical Editor and Input Transformer improvements
+<p>
+Seven new SuperVision metering modules
+<p>
+Sample Editor UI enhancements
+<p>
+Video engine performance improvements
+<p>
+Audio engine now supports High Core Count CPU on the latest AMD Threadripper generation
+<p>
+Smooth waveform drawing
+<p>
+MIDI over Bluetooth support in Windows
+<p>
+Native Apple Silicon support for Mac computers
+<p>
+Of course, Nuendo 12 uses the recently introduced, identity-based Steinberg Licensing system that offers significant new flexibility.
+Customers sign in with their Steinberg ID to run Nuendo 12 on up to three computers, without the need for a physical copy-protection device.
+<p>
+Steinberg's Marketing Manager for Nuendo, Luis Dongo, commented: “Nuendo continues to secure its position as being the standard in professional audio production.
+With version 12, this time we've taken a closer look at dialogue recording and editing, providing many tools to help facilitate professional dialogue editors and recording engineers clean up dialogue that matches the visual image of motion picture.
+But of course, there's a lot more to discover, all told Nuendo 12 comes with over 50 new features and improvements!”

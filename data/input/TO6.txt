@@ -1,0 +1,82 @@
+<p>
+﻿Portugal's Plateia D'Ilusões Studio Finds the Sweet Spot with new Solid State Logic ORIGIN
+<p>
+"ORIGIN really puts me in the sweet spot of working.
+That's something I'm really enjoying — the workflow"
+<p>
+Almada, Portugal, January 19, 2022 — When Vasco Teodoro relocated his Plateia D'Ilusões recording studio to its present location in mid-2019 he was using a hybrid production setup that included an SSL Nucleus DAW controller/worksurface and an SSL Sigma δelta remote-controlled analog summing mixer.
+Now, Teodoro, a longtime fan of Solid State Logic equipment, has upgraded his control room to include some of the company's latest products, installing a 32-channel ORIGIN analogue mixing console, UF8 advanced DAW controller and Fusion analog master processor.
+<p>
+“I liked my first-generation Nucleus, but I was looking for a mixing desk for my studio,” says Teodoro, a producer, engineer and mixer whose facility is located in Almada, just across the river from the center of Lisbon, Portugal's capital.
+“When I saw the ORIGIN come up, I thought, this is it!”
+<p>
+One stop shop for incredible sound
+<p>
+Since installing the ORIGIN, he has found himself using plug-ins and outboard gear far less, he says.
+“The ORIGIN EQ is amazing, and the low end is incredible, rounded but defined.
+I'll do a high-pass on the ORIGIN, sometimes some EQ, sometimes not, and it sounds great, so I've been using less and less and less other stuff.
+I'm finishing a mix now and when I look at my Pro Tools window, lots of channels don't have any plug-ins on them.
+So the ORIGIN really puts me in the sweet spot of working.
+That's something I'm really enjoying — the workflow,” he says.
+<p>
+“Some of my clients were here asking if I could hear the difference between the desk and the plug-ins,” he continues.
+“I said, ‘Let me open up some channels and crank 15dB at 16 kHz.'
+In the plug-in, it will sound harsh.
+I'm not saying that you can't have great results with plug-ins.
+But you can overdrive a console and that's priceless, for me.
+I showed them an example, with the drums.
+They could hear the difference.
+To get the same result with Pro Tools I would have to use four or five plug-ins.”
+<p>
+With his old setup, Teodoro would often use the microphone preamps in a sidecar desk when tracking.
+“Since I got the ORIGIN, I haven't used it.
+I wasn't expecting that.
+These PureDrive mic preamps have surprised me a lot, especially the Drive button that adds harmonics,” he says.
+There are various other mic preamp options in the racks at Plateia D'Ilusões, he says, including some vintage units.
+“But I've recorded some stuff where I didn't use them.
+The ORIGIN sounds good, so why mess it up?”
+<p>
+If you install it they will come
+<p>
+When Teodoro was working out his budget for the new equipment, he says, “One of the things I said was, I just have to have two more sessions a month to pay for the desk — and it's worked like a charm.
+During the COVID times I worked and worked.”
+January is fully booked, he says, including three weeks working with bands.
+<p>
+“It helps to have the ORIGIN desk; people notice my work because of it.
+It's a great tool for a commercial studio like mine, because everybody knows the SSL name.
+I've had some musicians and engineers here who have worked with SSL desks before and they love it,” he says.
+“They think it's an amazing tool.”
+<p>
+While Teodoro's clients work in a variety of music genres, many of them prefer to track together as an ensemble, he reports, which is where ORIGIN really shows its worth.
+“I'm fortunate to work with some of the best musicians in Portugal and they like the setup that I have here.
+They track live, which is great, because I have 32 channels on the ORIGIN.
+The desk allows me to get sounds more easily and way faster, because I can saturate the channel preamps or use some EQ to put more bite on the snare, for example.
+And if the piano player also plays guitar, I can have both set up and don't need to keep switching things,” which he had to do with his previous, limited recording setup.
+<p>
+The ORIGIN incorporates a G series stereo compressor in the master section, but Teodoro was already familiar with the device, having used SSL's 500 series version in his old hybrid rig.
+“Now I use that one for crushing drums,” he says.
+“I'm fortunate to have two SSL G compressors!”
+<p>
+The three tracking spaces at Plateia D'Ilusões not only allow Teodoro to separate the musicians while they are recording but have also enabled him to continue working during the coronavirus pandemic with everyone safely isolated.
+Plus, he adds, “This spot is great because it's near my home.
+And I have natural light, so I can look outside.”
+<p>
+Riding the faders with ORIGIN and UF8
+<p>
+While Teodoro finds himself increasingly relying on the ORIGIN's features and functionality for recording and mixing, there is still something of a hybrid workflow at the studio.
+His SSL UF8 controller, mounted on a stand to his left, provides tactile control of his DAW automation.
+“Some things I automate in Pro Tools, the main things I automate on the UF8; at most I automate two channels at a time,” he says.
+“And on the ORIGIN, I can put everything on the faders and ride them.
+I love having all these faders.”
+<p>
+Teodoro hasn't had the opportunity to dig deep into his new SSL gear yet, having only mixed a TV show and about 10 songs since installing it.
+“So I haven't explored the Fusion processor that much,” he says.
+“But I like the color and the character that it gives.
+I find the Drive interesting for saturation.
+I really like the Width.
+And I boost a little 20 kHz.
+That's it.”
+<p>
+The Fusion processor, which he typically inserts on the master bus, certainly offers possibilities for projects where a client has a very limited budget, he says.
+For those projects, “I know I can't always be mixing on the ORIGIN desk.
+So sometimes, if it's for a little character on something and it's a really tight budget and tight timing, I can just use the desk for summing with the Fusion,” he says.

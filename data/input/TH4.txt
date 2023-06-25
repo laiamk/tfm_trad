@@ -1,0 +1,39 @@
+<p>
+﻿La sala Verizon del Centro Kimmel de Filadelfia confía en DiGiCo
+<p>
+La Orquesta de Filadelfia ha tardado casi 100 años en tener su propia sede después de que los planes de buscarle un hogar en 1908 se vieran afectados por varios problemas burocráticos, la Gran Depresión, dos guerras mundiales y otra serie de obstáculos.
+<p>
+Sin embargo, la inauguración del Centro Kimmel en diciembre de 2001 trajo una nueva maravilla visual a la ciudad de Filadelfia.
+Un delicado techo de cristal abovedado rodea toda su estructura, envolviendo un enorme vestíbulo común a todas las instalaciones, incluida la pieza central del recinto, la sala Verizon con 2.500 butacas.
+<p>
+Y no fue hasta este verano pasado cuando el Centro Kimmel se vio completo con un nuevo y potente ecosistema de audio digital de DiGiCo para su sala principal Verizon Hall.
+La nueva configuración sonora está formada por una consola Quantum338, dos SD-Racks y un procesador 4REA4 con múltiples controladores.
+Los equipos fueron proporcionados por Bauder Audio de Horsham (Pensilvania), que también asesoró al equipo técnico del Kimmel Cultural Campus durante la fase de instalación.
+<p>
+André Barette, director de producción en el Kimmel Cultural Campus, quiso señalar cómo el proceso de selección de los equipos fue bastante largo y tedioso.
+<p>
+“Contábamos con muchas opciones de calidad en el mercado, pero terminamos por creer que la Quantum de DiGiCo era la mejor opción para nosotros, ya que nos permitía también abarcar las diferentes necesidades de producción de las giras”, explica Barette, a la vez que menciona cómo el Centro es también el hogar de la Orquesta Juvenil de Filadelfia, la Orquesta de Cámara de Filadelfia, la Sociedad de Música de Cámara de Filadelfia y la serie de actuaciones “Kimmel Center Presents”, donde varios artistas de jazz, música clásica y pop se dan cita.
+<p>
+La Quantum338 y los SD-Racks ya cubren las necesidades más urgentes de producción de audio, pero la adquisición del procesador 4REA4 ha sido una compra más a largo plazo.
+Actualmente se está utilizando como procesador sonoro de reserva para el Verizon Hall, haciéndose cargo del audio de avisos y programación en varias zonas del centro.
+<p>
+De cara a un futuro, se espera que pueda tener un margen de actuación en muchos más espacios, incluido el Perelman Theater, con aforo para 650 personas, y su escenario con plataforma giratoria (que convierte el espacio en sala de recitales o teatro de proscenio), así como el SEI Innovation Studio, un impresionante teatro de caja negra.
+“Sabemos perfectamente cuál es la potencia y versatilidad del El 4REA4 y estamos seguros de que nos será de gran ayuda en el futuro”.
+<p>
+Aunque han sido la consola, los racks y el procesador los grandes protagonistas de esta actualización de audio, también ha habido otros dispositivos igual de merecedores de atención.
+Un par de gabinetes A168 para escenarios (una en el escenario de la sala Verizon y la otra en la sala de equipos del recinto) se conectan al procesador 4REA4, ampliando la cobertura desde la sala principal a otras zonas como el vestíbulo.
+También han llegado para sustituir varios sistemas de mezcla y procesadores antiguos que estaban en los bastidores.
+<p>
+DiGiCo Kimmel 2Tanto 4REA4 como los gabinetes de escenario se gestionan mediante los controladores remotos programables multicapa AControl6 y AControl8 de DiGiCo.
+Los ocho faders y las seis capas de AControl8 son usados para controlar el audio cuando solo toca la orquesta y no se necesita amplificar el sonido.
+Entonces, la consola se quita, se pueden poner a la venta ocho asientos más y todas las comunicaciones que haya que hacer relativas a mensajes o avisos pueden hacerse fácilmente desde una tableta.
+Por otra parte, la AControl6, una versión más pequeña, trabaja como sistema de submezclas desde la sala de equipos.
+<p>
+“La Quantum338 resolvió el problema del número de canales de entrada soportables”, comenta Brian Naab, director de producción en Bauder Audio Systems.
+“Antes había que usar mezcladores anexos si los canales necesarios aumentaban en espectáculos pop con orquestas.
+Ahora, los SD-Racks tienen 112 canales completamente compactos.
+Es una consola espectacular.
+Pero es la combinación del procesador 4REA4, los gabinetes del escenario y los dispositivos AControl lo que más aumenta la flexibilidad en términos de control.
+En un futuro, 4REA4 se encargará de distribuir y controlar el audio en todas partes, así nos aseguraremos la integración total de todos los equipos y sistemas”.
+<p>
+Nash dice que puede distribuir el audio desde un solo canal a varias ubicaciones, aprovechando las facilidades de enrutamiento a la Quantum, que ahora también ha mejorado con la integración de una red Optocore que conecta por fibra, a su vez, la consola, los dos SD-Racks entre bastidores y el procesador 4REA4.

@@ -1,0 +1,36 @@
+<p>
+4.
+Verizon Hall In Philadelphia's Kimmel Center Goes DiGiCo All The Way
+<p>
+It took a while for the Philadelphia Orchestra to get a home of its own.
+In fact, it was almost 100 years, as plans first begun in 1908 were disrupted by bureaucratic delays, a Great Depression, a couple of World Wars, and other speed bumps.
+<p>
+But once it opened in December of 2001, the Kimmel Center for the Performing Arts was a wonder to behold: a vaulted glass ceiling encloses the entire structure, providing a large common lobby for all the facilities, including the centerpiece of the venue, the 2,500-seat Verizon Hall.
+<p>
+That's also where the Kimmel Center's long journey to completion received the cherry on top this past summer—a new and comprehensive DiGiCo digital-audio ecosystem for Verizon Hall comprising a Quantum338 console, two SD-Racks, and a 4REA4 Processor with multiple controllers.
+These were sold by Horsham, Pennsylvania-based Bauder Audio, which also consulted with the Kimmel Cultural Campus technical team during their own in-house installation of the gear.
+<p>
+André Barette, Kimmel Cultural Campus Director of Production, says the decision process behind the choice of DiGiCo components was lengthy and comprehensive.
+“We have a lot of choices when it comes to quality audio systems on the market now, but we felt that the DiGiCo Quantum console was the one that best meets the needs of the Center's various clients, including Kimmel Center Presents engagements and different touring productions,” he explains, noting that the Center is also home to the Philadelphia Youth Orchestra, the Chamber Orchestra of Philadelphia, the Philadelphia Chamber Music Society, and the “Kimmel Center Presents” performance series, which features a variety of jazz, classical, and pop music performers.
+<p>
+While the Quantum338 console and SD-Racks address the Center's immediate audio production needs, the 4REA4 processor is an even more strategic acquisition, he says.
+It's currently being used as a backup processor for the Verizon Hall sound system, routing paging and program audio to various zones in the venue's back-of-house areas.
+But, in the future, he expects its capabilities to be extended to the Center's other performance spaces, including the 650-seat Perelman Theater and its 75-foot-diameter turntable stage that permits the space to be used as a recital hall or a proscenium theater, and the SEI Innovation Studio, a 2,688-square-foot black-box theater.
+“The 4REA4 is a very powerful and versatile processor, and we foresee it becoming an important part of our digital audio infrastructure in the future,” he says.
+<p>
+Although the console, racks, and processor are the marquee items in this audio upgrade, there are a number of other items that perform equally important tasks.
+A pair of DiGiCo A168 stage boxes, one on the stage in the Verizon Hall and the other in the venue's equipment room, connect with the 4REA4 processor, extending its reach from the main hall into other areas of the facility, such as the lobby, and replacing a number of older rack-mount mixers and processors.
+<p>
+This combination of the 4REA4 and stage boxes is controlled using DiGiCo's AControl6 and AControl8 multi-layer programmable remote controllers.
+The AControl8's eight faders and six layers are used to manage audio when the hall is being used by the orchestra by itself, without amplified sound.
+The console is removed, allowing eight more seats to be made available for sale, and control of basic audio elements such as PA announcements and bell effects alerting patrons that a show is about to commence is handled efficiently by this tablet-like controller.
+Meanwhile, the smaller AControl6 acts as a compact submixer in the equipment room.
+<p>
+“The Quantum338 console solved their input channel count problem,” says Brian Naab, Production Manager at Bauder Audio Systems.
+“Before, they had to resort to sidecar mixers as the channel counts got larger for pop shows with orchestras.
+Now, with the SD-Racks, they have 112 channels to work with, and they've got a lot of console in a small footprint.
+It's one amazing desk.
+But the combination of the 4REA4 processor, the stage boxes, and the AControl devices really gives them lots of flexibility in terms of configuring the hall, and for future extension of audio throughout the venue.
+Eventually, the 4REA4 will distribute and control audio everywhere, so future growth is built into the system.”
+<p>
+For instance, Nash says he's able to distribute audio from a single channel to multiple locations, using the Quantum's inherent routing flexibility that's now also enhanced by the inclusion of an Optocore network that links the console, the two SD-Racks backstage, and the 4REA4 processor by fiber.

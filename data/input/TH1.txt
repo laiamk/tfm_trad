@@ -1,0 +1,73 @@
+<p>
+﻿Nuendo 12 ¿el software perfecto para voces?
+<p>
+Steinberg lanza la última versión de Nuendo, un reconocido software de postproducción de audio para cine, televisión, audio de videojuegos y sonido inmersivo.
+Con un fuerte énfasis en la grabación y edición de voces, además de muchas otras características y nuevas mejoras, Nuendo 12 le da una nueva calidad vocal a la grabación.
+<p>
+Anunciado por primera vez en marzo, Steinberg ha lanzado su último y esperado software de postproducción audiovisual, que cuenta con una gran variedad de herramientas y procesos que satisfacen todas las demandas profesionales.
+<p>
+La duodécima versión de Nuendo tiene un claro enfoque en el habla, ya que es el elemento más esencial de las voces en off, el doblaje y el diálogo para videojuegos, películas y televisión.
+Muchas de las nuevas características y mejoras de Nuendo no solo aseguran que las voces se escuchen con claridad, sino que están especialmente preparadas para diseñadores de sonido y estudios de postproducción que trabajan en este ámbito.
+<p>
+Con sus nuevas características para grabación y edición de diálogos, así como para producción de mezclas binaurales basadas en auriculares, Nuendo 12 es el software perfecto para voces.
+<p>
+El estándar de oro para voces
+<p>
+Nuendo 12 ofrece múltiples herramientas dedicadas a la edición vocal.
+El algoritmo de detección de voces, impulsado por IA, detecta el habla y elimina las partes en silencio de la grabación, gracias a la nueva herramienta de audición que permite a los usuarios escuchar y ver la forma de la onda detectada como voz o como silencio, antes de la edición.
+<p>
+Con la capacidad mejorada de alineación de audio, se pueden usar múltiples clips de referencia y su sincronización se aplica a todos los archivos de grabación.
+La herramienta Free Warp permite corregir los tiempos de los clips de diálogo desde la ventana de Proyecto.
+Nuendo 12 ahora también se integra a la perfección con Auto-Align Post 2, que permite alinear el tiempo y las fases de los micrófonos móviles.
+<p>
+Remodelación ADR
+<p>
+El sistema ADR de Nuendo ha sido remodelado con una funcionalidad nueva y mejorada, que permite a los usuarios utilizar funciones ADR automáticamente seleccionando una o más pistas de audio.
+La API ADR conecta sistemas externos y editores de scripts de diálogo con el propio sistema de Nuendo.
+También se incluye ahora en la versión 12 el soporte de importación y exportación TTAL de Netflix, para trabajar en proyectos de doblaje de idiomas para la compañía, así como el soporte ediCue v4 para importar textos de los personajes desde los PDF de los scripts.
+Y desde la ventana de filtros de atributos, es más fácil que antes usar los atributos de marcador que se muestran directamente en la pista de marcadores y los nuevos comandos de teclas.
+<p>
+Mezcla inmersiva con auriculares
+<p>
+Nuendo 12 ofrece una selección superior de herramientas de mezcla binaural.
+El nuevo plug-in Headphones Match compensa y emula la curva de respuesta de frecuencia de 387 modelos de auriculares de múltiples fabricantes.
+El Nuendo Renderer para Dolby Atmos proporciona una mezcla descendente binaural para mezclar sonido inmersivo espacial a través de auriculares, mientras que su nuevo Asistente de configuración convierte automáticamente un proyecto basado en canales en un proyecto de mezcla Dolby Atmos.
+El algoritmo de procesamiento utilizado en VST AmbiDecoder para la conversión de Ambisonics a binaural estéreo también ha mejorado significativamente.
+Ahora es posible construir una cadena de monitorización desde el sonido inmersivo basado en canales hasta Ambisonics y el binaural estéreo.
+<p>
+Nuendo 12 también es compatible con Space Controller OSC de Sound Particles.
+Space Controller OSC conecta un dispositivo móvil a Nuendo y vincula los movimientos físicos del dispositivo al software, lo que permite un control total sobre sus herramientas panorámicas.
+<p>
+Más herramientas creativas
+<p>
+Para músicos y diseñadores de sonido, Nuendo 12 incluye el plug-in FX Modulator con muchos efectos y un completo editor envolvente, la herramienta de procesamiento dinámico Raiser y el plug-in de tramado Lin One de MAAT, Inc.
+Los usuarios ahora pueden crear progresiones de acordes a partir de pistas de audio, mientras que la capacidad de importar pistas de tempo posibilita un intercambio perfecto entre diferentes proyectos.
+El nuevo sistema MIDI Remote permite que los controladores MIDI de terceros se integren fácilmente en el entorno Nuendo.
+También se incluye en este conjunto de características Verve, el nuevo piano de fieltro de Steinberg grabado en los Estudios Yamaha de Los Ángeles.
+<p>
+Nuendo 12 introduce nuevas mejoras en el flujo de trabajo y productividad, entre las que se incluyen:
+<p>
+Mejoras en SpectraLayers One
+<p>
+Mejoras en el editor lógico y el transformador de entrada
+<p>
+Siete nuevos módulos de medición SuperVision
+<p>
+Mejoras en la interfaz de usuario Sample Editor
+<p>
+Mejoras en el rendimiento del motor de vídeo
+<p>
+El motor de audio ahora es compatible con la CPU High Core Count en la última generación de AMD Threadripper
+<p>
+Función de onda suave
+<p>
+Compatibilidad con MIDI a través de Bluetooth en Windows
+<p>
+Soporte nativo de Apple Silicon para Mac
+<p>
+Nuendo 12 cuenta con una licencia oficial de Steinberg basada en la identidad del cliente que ofrece una mayor flexibilidad.
+Los clientes solo tienen que iniciar sesión con su Steinberg ID para ejecutar Nuendo 12 hasta en tres equipos, sin necesidad de disponer de un dispositivo físico de protección contra plagios.
+<p>
+«Nuendo continúa posicionándose como uno de los grandes estándares dentro de la industria del audio profesional.
+Con la versión 12, esta vez nos hemos enfocado aún más en la grabación y edición de diálogos, proporcionando nuevas herramientas para facilitar que los editores e ingenieros de grabación limpien el diálogo que coincide con las imágenes de la película.
+Pero esto no es más que el principio, porque Nuendo 12 incluye más de 50 nuevas características y mejoras!», comenta Luis Dongo, director de marketing en Steinberg.

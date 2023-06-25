@@ -1,0 +1,72 @@
+<p>
+﻿Nuendo 12 es el hogar del diálogo
+<p>
+Steinberg lanza la última versión de Nuendo, su galardonado software de postproducción de audio para cine, TV, audio para videojuegos y sonido inmersivo.
+Con un fuerte énfasis en la grabación y edición de diálogos, además de muchas otras funciones y mejoras interesantes, Nuendo 12 literalmente le da al sonido grabado una nueva voz.
+<p>
+Presentado por primera vez en marzo, Steinberg anunció hoy la disponibilidad inmediata de su último y muy esperado sistema de producción de medios, Nuendo 12, que presenta una variedad de herramientas y procesos poderosos que satisfacen todas las demandas profesionales.
+<p>
+La duodécima versión de Nuendo tiene un claro enfoque en el habla, ya que es el elemento más esencial de las voces en off, el doblaje y los diálogos para juegos, películas y televisión.
+Muchas de las nuevas funciones y mejoras de Nuendo no solo aseguran que los diálogos se escuchen con claridad, sino que están especialmente diseñadas para diseñadores de sonido y estudios de posproducción que trabajan en este ámbito.
+<p>
+Con sus nuevas funciones para grabar y editar diálogos, así como para producir mezclas binaurales basadas en auriculares y más, Nuendo 12 es el hogar del diálogo.
+<p>
+El diálogo cumple con el estándar de oro
+<p>
+Nuendo 12 presenta herramientas dedicadas para la edición de diálogos.
+El algoritmo de detección de diálogo impulsado por IA detecta el habla y elimina las partes silenciosas de la grabación, con la nueva herramienta de audición que permite a los usuarios escuchar la forma de onda mostrada detectada como diálogo o silencio, antes de la edición.
+<p>
+Con la capacidad mejorada de Alineación de audio, se pueden usar múltiples clips de referencia y aplicar su sincronización precisa al conjunto correspondiente de archivos de grabadora de campo.
+La herramienta Free Warp permite una sutil corrección de tiempo de los clips de diálogo desde la ventana del Proyecto.
+Nuendo 12 ahora también se integra a la perfección con Auto-Align Post 2, alineando el tiempo y la fase de los micrófonos en movimiento.
+<p>
+Revisión ADR
+<p>
+El sistema ADR de Nuendo ha recibido una revisión, con una funcionalidad nueva y mejorada, como permitir a los usuarios crear marcadores ADR automáticamente seleccionando uno o más eventos de audio.
+La ADR API conecta sistemas de tomadores externos y editores de guiones de diálogo con el propio sistema de marcadores de Nuendo.
+Ahora también se incluye en la versión 12 la compatibilidad con la importación y exportación TTAL de Netflix, para trabajar en proyectos de doblaje de idiomas para Netflix, así como la compatibilidad con EdiCue v4 para cargar texto de caracteres desde guiones de grabación en PDF, con los datos de entrada almacenados directamente en los marcadores de ciclo de Nuendo.
+Y con los filtros de atributos de la ventana de marcadores incluidos, los atributos de los marcadores que se muestran directamente en la pista de marcadores y los nuevos comandos de teclado.
+<p>
+Mezcla inmersiva de auriculares
+<p>
+Nuendo 12 proporciona una selección superior de herramientas de mezcla binaural.
+El nuevo plugin Headphones Match compensa y/o emula la curva de respuesta de frecuencia de 387 modelos diferentes de auriculares de una amplia gama de fabricantes.
+Nuendo Renderer para Dolby Atmos ahora ofrece un downmix binaural para una mezcla de sonido inmersiva a través de auriculares con la precisión espacial requerida, mientras que su nuevo asistente de configuración convierte automáticamente un proyecto basado en canales en un proyecto de mezcla Dolby Atmos.
+El algoritmo de procesamiento utilizado en VST AmbiDecoder para convertir de Ambisonics a estéreo binaural también se ha mejorado significativamente, por lo que ahora es posible construir una cadena de monitoreo desde sonido inmersivo basado en canales a Ambisonics a estéreo binaural.
+<p>
+Nuendo 12 también es compatible con Space Controller OSC de Sound Particles.
+Space Controller OSC conecta un dispositivo móvil a Nuendo y vincula los movimientos físicos del dispositivo al software, lo que permite un control total sobre sus herramientas de panoramización.
+<p>
+Más herramientas creativas
+<p>
+Para músicos y diseñadores de sonido, Nuendo 12 incluye el plugin FX Modulator con muchos efectos y un completo editor de envolventes, la herramienta de procesamiento de dinámicas Raiser y el plugin de dithering Lin One de MAAT, Inc.
+Los usuarios ahora pueden crear progresiones de acordes a partir de eventos de audio, mientras que la capacidad de importar tempo y pistas de firma permite un intercambio fluido entre diferentes proyectos.
+El nuevo sistema MIDI Remote permite que los controladores MIDI de terceros se integren fácilmente en el entorno de Nuendo.
+También forma parte de este conjunto de características Verve, el nuevo piano de fieltro de Steinberg grabado en los Estudios Yamaha en Los Ángeles.
+<p>
+Nuendo 12 proporciona muchas mejoras adicionales en el flujo de trabajo y la productividad, que incluyen:
+<p>
+Mejoras de SpectraLayers One
+<p>
+Mejoras en el editor lógico y el transformador de entrada
+<p>
+Siete nuevos módulos de medición SuperVision
+<p>
+Mejoras en la interfaz de usuario del Editor de muestras
+<p>
+Mejoras en el rendimiento del motor de video
+<p>
+El motor de audio ahora es compatible con la CPU High Core Count en la última generación AMD Threadripper
+<p>
+Dibujo de forma de onda suave
+<p>
+Compatibilidad con MIDI a través de Bluetooth en Windows
+<p>
+Soporte nativo para Apple Silicon en computadoras Mac
+<p>
+Por supuesto, Nuendo 12 utiliza el sistema de licencias de Steinberg basado en la identidad recientemente introducido que ofrece una nueva flexibilidad significativa.
+Los clientes inician sesión con su ID de Steinberg para ejecutar Nuendo 12 en hasta tres computadoras, sin necesidad de un dispositivo físico de protección contra copias.
+<p>
+El gerente de marketing de Steinberg para Nuendo, Luis Dongo, comentó: “Nuendo continúa asegurando su posición como el estándar de oro en la producción de audio profesional.
+Con la versión 12, esta vez hemos analizado más de cerca la grabación y edición de diálogos, brindando muchas herramientas para ayudar a facilitar que los editores de diálogos profesionales y los ingenieros de grabación limpien el diálogo que coincide con la imagen visual de la película.
+Pero, por supuesto, hay mucho más por descubrir, ¡en total, Nuendo 12 viene con más de 50 nuevas funciones y mejoras!”
